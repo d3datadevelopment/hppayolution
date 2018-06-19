@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="d3mxd3modules">
+        <MAINMENU id="d3mxheidelpay">
+            <SUBMENU id="d3mxheidelpay_settings" cl="d3_heidelpay_controllers_admin_base" list="d3_heidelpay_controllers_admin_adminlist" rights="malladmin">
+                <TAB id="d3tbclheidelpay_settings_payolution" cl="d3_hppayolution_controllers_admin_settings"/>
+            </SUBMENU>
+        </MAINMENU>
+    </OXMENU>
+</OX>
